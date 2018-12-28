@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">singleListview</string>
+    <string-array name="countryname">
+        <item>Afganistan</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Netherland</item>
+        <item>Brazil</item>
+        <item>Newziland</item>
+        <item>Iran</item>
+        <item>Filistin</item>
+        <item>England</item>
+        <item>America</item>
+        <item>Iland</item>
+        <item>Iraqe</item>
+        <item>Argentinia</item>
+        <item>Afganistan</item>
+
+
+
+
+
+
+
+
+
+    </string-array>
+</resources>
